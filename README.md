@@ -1,3 +1,4 @@
+<h1>Wealthify</h1>
 <div align="center">
   <img src="./static/Images/expenze.png" alt="banner" />
 </div>
