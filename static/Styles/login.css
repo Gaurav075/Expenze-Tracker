@@ -7,7 +7,7 @@
 }
 
 :root {
-  --main: #ec5e2c;
+  --main: #2c2fec;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
   align-items: center;
   height: 100vh;
   width: 100vw;
-  background: url("../Images/Product.png");
+  background: url("../Images/background2.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

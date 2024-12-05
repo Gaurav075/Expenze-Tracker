@@ -14,7 +14,7 @@ html {
 }
 /*---------COLORS-----------*/
 :root {
-  --main: #ec5e2c;
+  --main: #2c2fec;
 }
 
 ::selection {
@@ -162,7 +162,7 @@ html {
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  background-image: url("../Images/background.svg");
+  background-image: url("../Images/background2.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -256,7 +256,7 @@ html {
   align-items: center;
   align-content: center;
   justify-content: center;
-  background-image: url("../Images/background.svg");
+  background-image: url("../Images/background2.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -282,6 +282,9 @@ html {
   border-radius: 10px;
   font-size: 20px;
   font-family: Inter;
+}
+#message::placeholder{
+  text-align: center;
 }
 .send {
   font-size: 20px;
