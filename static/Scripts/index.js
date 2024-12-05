@@ -29,3 +29,16 @@ class Navigation {
     var mailtoLink = 'mailto:' + recipientEmail + '?subject=Message&body=' + encodeURIComponent(message);
     window.location.href = mailtoLink;
 }
+
+const togglebutton = document.getElementById('theme-toggle');
+togglebutton.addEventListener('click',()=>{
+  document.body.classList.toggle('Dark');
+  if(document.body.classList.contains('Dark'))
+  {
+    togglebutton.textContent='Light';
+  }
+  else
+  {
+    togglebutton.textContent='Dark';
+  }
+})
