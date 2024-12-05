@@ -3,17 +3,17 @@
   <img src="./static/Images/expenze.png" alt="banner" />
 </div>
 <div align="center">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/priyamaggarwal18/Expense-Tracker?style=for-the-badge&color=orange">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/priyamaggarwal18/Expense-Tracker?style=for-the-badge&color=orange">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/priyamaggarwal18/Expense-Tracker?style=for-the-badge&color=orange">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/priyamaggarwal18/Expense-Tracker?style=for-the-badge&color=orange">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Gaurav075/Wealthify?style=for-the-badge&color=blue">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Gaurav075/Wealthify?style=for-the-badge&color=blue">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/Gaurav075/Wealthify?style=for-the-badge&color=blue">
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/Gaurav075/Wealthify?style=for-the-badge&color=blue">
 </div>
 
 
 
 # 
 
-**```Expenze```** is a user-friendly and mobile-friendly web application designed to help you monitor your daily expenses, track income, and maintain a detailed transaction history. With a clean and intuitive dashboard, users can easily add, edit, and delete transactions. The application includes features such as login, signup, and a convenient option to print the transaction history, making financial tracking simpler and more accessible.
+**```Wealthify```** is a user-friendly and mobile-friendly web application designed to help you monitor your daily expenses, track income, and maintain a detailed transaction history. With a clean and intuitive dashboard, users can easily add, edit, and delete transactions. The application includes features such as login, signup, and a convenient option to print the transaction history, making financial tracking simpler and more accessible.
 
 
 <br>
