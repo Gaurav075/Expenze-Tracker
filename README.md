@@ -78,13 +78,13 @@ Expense-Tracker/
 1. **Clone the Repository:**
    Open your terminal and run the following command:
    ```bash
-   git clone https://github.com/priyamaggarwal18/Expense-Tracker.git
+   git clone https://github.com/Gaurav075/Wealthify.git
    ```
    
 2. **Navigate to the Project Directory:**
    Once the repository is cloned, navigate to the project folder
    ```bash
-   cd Expense-Tracker
+   cd Wealthify
    ```
 3. **Install Dependencies:**
   The project uses some npm packages such as ```gh-pages``` and ```express```. Install them by running:
@@ -110,7 +110,7 @@ Expense-Tracker/
 
 ## Check Responsive
 
-Expenze is designed with a mobile-first approach, ensuring a seamless experience across all devices. Click the image below to view the app's responsive design in action.
+Wealthify is designed with a mobile-first approach, ensuring a seamless experience across all devices. Click the image below to view the app's responsive design in action.
 
 <div align="center">
   <a href="https://ui.dev/amiresponsive?url=https://priyamaggarwal18.github.io/Expense-Tracker/" target="_blank">
