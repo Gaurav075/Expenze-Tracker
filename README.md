@@ -143,7 +143,7 @@ Local Storage/
 Below is a sample structure of the local storage:
 
 <div align="center">
-  <img src="./static/Images/local_storage.png" alt="Local Storage Schema Example" />
+  <img src="./static/Images/storage.JPG" alt="Local Storage Schema Example" />
 </div>
 
 [🔝](#table-of-contents)
