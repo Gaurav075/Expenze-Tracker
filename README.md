@@ -1,6 +1,6 @@
 <h1>Wealthify</h1>
 <div align="center">
-  <img src="./static/Images/expenze.png" alt="banner" />
+  <img src="./static/Images/Wealthify.png" alt="banner" />
 </div>
 <div align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Gaurav075/Wealthify?style=for-the-badge&color=blue">
