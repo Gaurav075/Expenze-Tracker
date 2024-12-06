@@ -46,6 +46,11 @@ body {
 .logo {
   height: 55px;
 }
+.logo1{
+  height: 18rem;
+  position: relative;
+  top: -50px;
+}
 
 .profile-section {
   display: flex;

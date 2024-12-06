@@ -23,8 +23,11 @@ body {
   font-family: inter;
 }
 
-.logo {
+.logo{
+
+  height: 5rem;
   width: 200px;
+
 }
 
 .Login,

@@ -4,6 +4,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+.change-color{
+  background-color: blue;
+}
 body {
   font-family: inter;
   overflow-x: hidden;
@@ -48,7 +51,8 @@ html {
 }
 
 .logo {
-  height: 3.5rem;
+  margin-top: 9.2rem;
+  height: 20rem;
 }
 
 .navbar-list {
