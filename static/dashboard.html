@@ -21,6 +21,12 @@
             </div>
         </header>
 
+        <!-- Dark/Light Mode Toggle
+        <div class="mode-toggle">
+            <label for="theme-switch">Dark Mode</label>
+            <input type="checkbox" id="theme-switch">
+        </div> -->
+
         <!-- Main Dashboard Content -->
         <div class="dashboard-content">
             <!-- Balance Section -->
@@ -59,7 +65,6 @@
                         <option value="travel">Travel</option>
                         <option value="other">Other</option>
                     </select>
-            
                     <input type="text" id="reason" placeholder="Reason" required>
                     <p id="warning"></p>
                     <button type="submit">Add Transaction</button>
@@ -91,5 +96,10 @@
     </div>
 
     <script src="Scripts/dashboard.js"></script>
+    <script>
+        document.getElementById('theme-switch').addEventListener('change', function () {
+            document.body.classList.toggle('Dark', this.checked);
+        });
+    </script>
 </body>
 </html>

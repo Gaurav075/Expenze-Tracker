@@ -30,15 +30,14 @@ class Navigation {
     window.location.href = mailtoLink;
 }
 
-const togglebutton = document.getElementById('theme-toggle');
-togglebutton.addEventListener('click',()=>{
-  document.body.classList.toggle('Dark');
-  if(document.body.classList.contains('Dark'))
-  {
-    togglebutton.textContent='Light';
+
+const toggleButton = document.getElementById('theme-toggle');
+
+toggleButton.addEventListener('click', () => {
+  document.body.classList.toggle('Dark'); // Toggle Dark class on the body
+  if (document.body.classList.contains('Dark')) {
+    toggleButton.textContent = 'Light'; // Update button text
+  } else {
+    toggleButton.textContent = 'Dark'; // Revert button text
   }
-  else
-  {
-    togglebutton.textContent='Dark';
-  }
-})
+});

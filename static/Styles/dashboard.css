@@ -221,6 +221,7 @@ body {
   border: 1px solid #ddd;
 }
 
+
 @media (max-width: 900px) {
   .dashboard-header {
     display: flex;
