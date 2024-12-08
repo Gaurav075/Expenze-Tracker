@@ -15,12 +15,12 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  width: 100vw;
+  margin: 0;
   background: url("../Images/background2.svg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  font-family: inter;
+  font-family: 'Inter', sans-serif;
 }
 
 .logo{
@@ -28,24 +28,28 @@ body {
   height: 17rem;
   width: 230px;
   position: relative;
-  bottom: -8rem;
+  bottom: -10rem;
 
 }
-
-.Login,
-.Signup {
+.box{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 450px;
-  /* margin: 10px; */
+  margin: 30px;
   padding: 20px 40px;
   border: 1px solid #ccc;
   border-radius: 40px;
-  height: 25rem;
+  height: 35rem;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.8);
+}
+.Login {
+  margin-bottom: 13rem;
+}
+.Signup{
+  margin-bottom: 14rem;
 }
 
 #login-form,

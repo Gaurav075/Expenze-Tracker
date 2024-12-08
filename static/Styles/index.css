@@ -198,6 +198,7 @@ html {
 .image-section img {
   width: 80vw;
   height: 80vh;
+  margin-top: 1rem;
   border-radius: 40px;
 }
 
@@ -276,6 +277,11 @@ html {
 .profile-logo{
   width: 50px;
   border-radius: 50%;
+}
+
+.hero-rightside img{
+  height: 25rem;
+  width: 45rem;
 }
 
 /*--------Feedback Form---------------*/
@@ -453,6 +459,7 @@ body.Dark .logo {
 
   .header {
     position: fixed;
+   
   }
   .logo {
     width: 70%;
@@ -489,8 +496,9 @@ body.Dark .logo {
   }
 
   .header .logo {
-    height: 6rem;
-    width: 16rem;
+    height: 20rem;
+    width: 20rem;
+    margin-left: 6rem;
   }
 
   .header{
