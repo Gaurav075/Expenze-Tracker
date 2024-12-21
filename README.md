@@ -180,7 +180,7 @@ These features aim to give users more control over their profiles and improve th
 
 # 
 <div>
-  <img src="https://avatars.githubusercontent.com/u/125338113?s=400&v=4" alt="Contributions" align="left" height="5rem">
+  <img src="https://avatars.githubusercontent.com/u/125338113?s=400&v=4" alt="Contributions" align="left" height="25rem">
   <h3 align="left">Maintained By - Gaurav Gupta (https://github.com/Gaurav075)</h3>
     <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
