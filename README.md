@@ -180,9 +180,9 @@ These features aim to give users more control over their profiles and improve th
 
 # 
 <div>
-  <img src="https://contrib.rocks/image?repo=priyamaggarwal18/Game_Hub1" alt="Contributions" align="left">
+  <img src="https://avatars.githubusercontent.com/u/125338113?s=400&v=4" alt="Contributions" align="left">
   <h3 align="left">Maintained By - Gaurav Gupta (https://github.com/Gaurav075)</h3>
-    <a href="https://priyamaggarwal18.github.io/Portfolio2.0/" target="_blank" style="text-decoration: none;">
+    <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>&nbsp&nbsp;
   <a href="https://www.linkedin.com/in/gaurav-gupta-097069261" target="_blank" style="text-decoration: none;">
