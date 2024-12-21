@@ -113,7 +113,7 @@ Expense-Tracker/
 Wealthify is designed with a mobile-first approach, ensuring a seamless experience across all devices. Click the image below to view the app's responsive design in action.
 
 <div align="center">
-  <a href="https://ui.dev/amiresponsive?url=https://priyamaggarwal18.github.io/Expense-Tracker/" target="_blank">
+  <a href="https://ui.dev/amiresponsive?url=https://wealthify-blond.vercel.app/" target="_blank">
     <img src="./static/Images/responsive.png" alt="Responsive design demonstration" />
   </a>
 </div>
