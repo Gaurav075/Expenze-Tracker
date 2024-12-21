@@ -114,7 +114,7 @@ Wealthify is designed with a mobile-first approach, ensuring a seamless experien
 
 <div align="center">
   <a href="https://ui.dev/amiresponsive?url=https://wealthify-blond.vercel.app/" target="_blank">
-    <img src="./static/Images/responsive.png" alt="Responsive design demonstration" />
+    <img src="./static/Images/responsive1.png" alt="Responsive design demonstration" />
   </a>
 </div>
 
